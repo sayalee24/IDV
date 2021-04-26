@@ -1,2 +1,2 @@
 # Assigment 3
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/sayalee24/IDV/blob/main/assignment_3/assignment3.png)
