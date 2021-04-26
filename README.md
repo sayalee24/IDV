@@ -1,1 +1,1 @@
-# IDV
+# Interactive Data Visualization - IDV
