@@ -1,1 +1,1 @@
-# Interactive Data Visualization - IDV
+# Interactive Data Visualization(Master course) - IDV
